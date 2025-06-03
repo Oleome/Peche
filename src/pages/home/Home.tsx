@@ -1,5 +1,5 @@
 export function Home() {
     return (
-        <div>Coucou</div>
+        <div>Bar d'Émeraude</div>
     )
 }
