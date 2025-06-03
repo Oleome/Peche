@@ -6,7 +6,9 @@
     height: 100vh;
 
     img {
-        width: 40%;
+        max-width: 90vw;
+        max-height: 90vh;
+        width: auto;
         height: auto;
     }
 
