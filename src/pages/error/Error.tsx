@@ -1,5 +1,5 @@
-import error from "/error_404.jpg"
-import "./error.scss"
+import error from "/error_404.jpg";
+import "./error.scss";
 
 export function Error() {
     return (
